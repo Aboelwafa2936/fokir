@@ -1,2 +1,2 @@
 # fokir
-fokir-site
+personal portofolio webpage (fully responsive)
